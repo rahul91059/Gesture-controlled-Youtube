@@ -166,7 +166,6 @@ Please, let me know if you face other issues or have any question. All feedbacks
 * [Nikita Kiselov](https://github.com/kinivi)
 * [Adrian Rosebrock](https://pyimagesearch.com/author/adrian/)
 * [Artificial Intelligence in Gestural Interfaces](https://emerj.com/ai-sector-overviews/artificial-intelligence-in-gestural-interfaces/)
- 
- #   G e s t u r e - b a s e d - Y o u t u b e 
+
  
  
