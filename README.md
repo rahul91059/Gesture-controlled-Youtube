@@ -55,9 +55,7 @@ The implementation of this feature was pretty straightforward:
 * Detect the presence of a face using [MediaPipe's face detector](https://google.github.io/mediapipe/solutions/face_detection.html).
 * If a face is not detected for at least a prefined number of consecutives frames, then the user is considered to be absent.  
 
-The general workflow for the sleepness and absence detection looks like this:  
-
-<img src="https://user-images.githubusercontent.com/100664869/194755008-74282aa3-01a1-4ea3-8563-a1777278e752.png">  
+The general workflow for the sleepness and absence detection looks nice.
 
 ## Project Structure
 ```bash
