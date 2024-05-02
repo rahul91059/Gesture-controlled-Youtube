@@ -137,7 +137,7 @@ Both the youtube video and your webcam video will load into the web page.
 Hand gestures are valid only when your hand is in the red box within your webcam video. This is to prevent unintentional interactions with the player (e.g. when scratching your face). You first need to move the mouse above the player and left-click to start the video; of course with hand gestures 😉. This puts the player in focus mode and allows the rest of interactions to be performed.  
 It's better to use the 'neutral' gesture between other gestures; this decreases false positive detections that might occur when transitioning directly from one gesture to another.
 
-<img src="https://user-images.githubusercontent.com/100664869/194749265-5bd27c59-a248-440e-8702-5a442b83472b.gif">
+
 Here is a list of all the implemented interactions.  
 <img src="https://user-images.githubusercontent.com/100664869/194752626-125f0a5f-fca2-4a04-aefb-bf07679fe0a7.png">  
 
